@@ -385,3 +385,9 @@ npm test && npm run test:report
 
 **¡Disfruta viendo tus pruebas automatizadas!** 🎉
 
+---
+
+**Proyecto creado por:** [Elio Navarrete](https://github.com/elionavarretev) | QA Lead & Test Automation Specialist  
+**Repositorio:** [Demo-playwright](https://github.com/elionavarretev/Demo-playwright)  
+**Website:** [elionavarretev.github.io](https://elionavarretev.github.io/)
+

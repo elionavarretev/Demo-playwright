@@ -473,12 +473,18 @@ open https://playwright.dev/docs/intro
 
 ---
 
+**Proyecto creado por:** [Elio Navarrete](https://github.com/elionavarretev)  
+**Repositorio:** [Demo-playwright](https://github.com/elionavarretev/Demo-playwright)
+
+---
+
 **¿Necesitas ayuda?**
 
 1. Revisa la [documentación oficial](https://playwright.dev/)
 2. Lee `GUIA_RAPIDA.md` para una guía paso a paso
 3. Consulta `RESUMEN.md` para información completa
 4. Explora `EJEMPLOS_VISUALES.md` para ver ejemplos visuales
+5. Abre un issue en [GitHub](https://github.com/elionavarretev/Demo-playwright/issues)
 
 ---
 

@@ -176,8 +176,11 @@ npx playwright test --grep "Click en menú SEO"
 - [Documentación oficial de Playwright](https://playwright.dev/)
 - [Selectores en Playwright](https://playwright.dev/docs/selectors)
 - [Mejores prácticas](https://playwright.dev/docs/best-practices)
+- [Repositorio del proyecto](https://github.com/elionavarretev/Demo-playwright)
 
 ---
+
+**Autor:** [Elio Navarrete](https://github.com/elionavarretev) | QA Lead & Test Automation Specialist
 
 **¡Listo para empezar!** 🎉
 

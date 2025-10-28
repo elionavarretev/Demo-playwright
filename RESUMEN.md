@@ -265,6 +265,10 @@ npm install
 
 Este proyecto fue creado como ejemplo educativo para aprender automatización con Playwright.
 
+**Autor:** Elio Navarrete  
+**GitHub:** [@elionavarretev](https://github.com/elionavarretev)  
+**Repositorio:** [Demo-playwright](https://github.com/elionavarretev/Demo-playwright)
+
 ---
 
 **¿Listo para empezar?** 🚀

@@ -361,8 +361,11 @@ Screenshots generados:          ~12
 ## 📞 Contacto y Soporte
 
 - **Autor:** Elio Navarrete
+- **GitHub:** [@elionavarretev](https://github.com/elionavarretev)
+- **Website:** [https://elionavarretev.github.io/](https://elionavarretev.github.io/)
+- **Repositorio:** [Demo-playwright](https://github.com/elionavarretev/Demo-playwright)
 - **Documentación:** Este repositorio
-- **Issues:** GitHub Issues (si aplica)
+- **Issues:** [GitHub Issues](https://github.com/elionavarretev/Demo-playwright/issues)
 - **Playwright Docs:** https://playwright.dev/
 
 ---

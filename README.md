@@ -356,7 +356,9 @@ Este proyecto está bajo la Licencia ISC. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Elio Navarrete**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- GitHub: [@elionavarretev](https://github.com/elionavarretev)
+- Website: [https://elionavarretev.github.io/](https://elionavarretev.github.io/)
+- ORCID: [0000-0001-8810-2068](https://orcid.org/0000-0001-8810-2068)
 
 ---
 
