@@ -4,7 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report",
+    "test:seo": "playwright test seo-menu.spec.js",
+    "test:ejemplo": "playwright test ejemplo-seo.spec.js",
+    "test:advanced": "playwright test advanced-tests.spec.js",
+    "test:tecnicas": "playwright test tecnicas-avanzadas.spec.js",
+    "codegen": "playwright codegen",
+    "codegen:guru99": "playwright codegen https://demo.guru99.com/test/newtours/index.php"
   },
   "keywords": [],
   "author": "",
